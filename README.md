@@ -1,1 +1,1 @@
-Forward to Notion, that's it
+Forward to Notion using a client side redirect, that's it.
